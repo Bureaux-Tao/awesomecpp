@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(FS)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(FS main.cpp chapter3/p81_19_shuixianhuashu.h chapter3/p81_20_wanshu.h chapter3/p81_21_feiponachi.h chapter3/p81_22_houchitao.h chapter3/p81_23_diedaifa.h chapter3/p82_25_pinpangqiusai.h chapter4/p122_1_gongyueshu.h chapter4/p122_6_newton.h chapter4/p122_8_lerangdeduo.h chapter4/p123_9_hanoi.h chapter4/p123_10_numberint2string.h chapter4/p123_11_jiecheng.h chapter4/p123_12_hong.h chapter5/p151_6_yanghuitriangle.h chapter5/p151_7_andian.h chapter5/p152_13_strcat.h chapter6/p188_4_shuzuyidong.h chapter6/p188_5_baoshu.h chapter6/p188_10_juzhen.h chapter6/p188_11_stringsort.h chapter6/p188_13_jifen.h chapter6/p189_16_statisticinteger.h chapter7/p211_2_culculatedays.h chapter7/p211_11_doctorduty.h chapter9/p283_li911_staticfunction.h chapter9/p283_li911_staticfunction.cpp chapter9/p287_li913_frendclassfunction.cpp chapter9/p287_li913_frendclassfunction.h chapter9/p296_9_shop.cpp chapter9/p296_9_shop.h chapter10/p327_2_complex.cpp chapter10/p327_2_complex.h chapter10/p327_4_matrix.cpp chapter10/p327_4_matrix.h chapter12/p400_5_shape.cpp chapter13/ch13_file.h chapter13/ch13_worker.h)
