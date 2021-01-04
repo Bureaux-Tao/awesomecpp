@@ -8,193 +8,82 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug"/>
+				<Option working_dir="/Users/Bureaux/Git/FS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug"/>
+				<Option working_dir="/Users/Bureaux/Git/FS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug"/>
+				<Option working_dir="/Users/Bureaux/Git/FS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="FS">
-				<Option output="/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/FS" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug"/>
+				<Option output="/Users/Bureaux/Git/FS/cmake-build-debug/FS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Bureaux/Git/FS/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 FS"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 FS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="FS/fast">
-				<Option output="/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/FS" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug"/>
+				<Option output="/Users/Bureaux/Git/FS/cmake-build-debug/FS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Bureaux/Git/FS/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 FS/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Documents/workspace/CLionProjects/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 FS/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Bureaux/Git/FS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter10/p327_2_complex.cpp">
+		<Unit filename="/Users/Bureaux/Git/FS/main.cpp">
 			<Option target="FS"/>
 		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter10/p327_2_complex.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter10/p327_4_matrix.cpp">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter10/p327_4_matrix.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter12/p400_5_shape.cpp">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter13/ch13_file.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter13/ch13_worker.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter3/p81_19_shuixianhuashu.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter3/p81_20_wanshu.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter3/p81_21_feiponachi.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter3/p81_22_houchitao.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter3/p81_23_diedaifa.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter3/p82_25_pinpangqiusai.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter4/p122_1_gongyueshu.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter4/p122_6_newton.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter4/p122_8_lerangdeduo.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter4/p123_10_numberint2string.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter4/p123_11_jiecheng.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter4/p123_12_hong.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter4/p123_9_hanoi.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter5/p151_6_yanghuitriangle.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter5/p151_7_andian.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter5/p152_13_strcat.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter6/p188_10_juzhen.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter6/p188_11_stringsort.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter6/p188_13_jifen.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter6/p188_4_shuzuyidong.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter6/p188_5_baoshu.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter6/p189_16_statisticinteger.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter7/p211_11_doctorduty.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter7/p211_2_culculatedays.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter9/p283_li911_staticfunction.cpp">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter9/p283_li911_staticfunction.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter9/p287_li913_frendclassfunction.cpp">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter9/p287_li913_frendclassfunction.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter9/p296_9_shop.cpp">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/chapter9/p296_9_shop.h">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/main.cpp">
-			<Option target="FS"/>
-		</Unit>
-		<Unit filename="/Users/Bureaux/Documents/workspace/CLionProjects/FS/CMakeLists.txt">
+		<Unit filename="/Users/Bureaux/Git/FS/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

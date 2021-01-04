@@ -9,7 +9,7 @@
 
 /*
  * 虚函数：
- * 有virtual调基类，没virtual调子类
+ * 有virtual调子类，没virtual调基类
  * A *a=new B();
  * a->foo;  //有v调B，没v调A
  */

@@ -32,7 +32,7 @@
 #include "chapter13/ch13_worker.h"
 
 int main() {
-    ch3_19::exec();
+//    ch3_19::exec();
 //    ch3_20::exec();
 //    ch3_21::exec();
 //    ch3_22::exec();
@@ -61,6 +61,6 @@ int main() {
 //    ch10_4::exec();
 //    ch12_5::exec();
 //    ch13_li1310::exec();
-//    ch13_5::exec();
+    ch13_5::exec();
     return 0;
 }
